@@ -1,6 +1,6 @@
 ## Отчет о тестировании программы Credit Card Number Validator
 
-### Крактое описание
+### Краткое описание
 
 09.11.2020 был проведен Smoke Testing программы Credit Card Number Validator
 Использовались следующие методы:
